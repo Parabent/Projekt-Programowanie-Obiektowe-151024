@@ -1,0 +1,32 @@
+C:\Users\oem\source\repos\GłodnyGoku\GłodnyGoku\bin\Debug\GłodnyGoku.exe.config
+C:\Users\oem\source\repos\GłodnyGoku\GłodnyGoku\bin\Debug\GłodnyGoku.exe
+C:\Users\oem\source\repos\GłodnyGoku\GłodnyGoku\bin\Debug\GłodnyGoku.pdb
+C:\Users\oem\source\repos\GłodnyGoku\GłodnyGoku\obj\Debug\GłodnyGoku.csprojAssemblyReference.cache
+C:\Users\oem\source\repos\GłodnyGoku\GłodnyGoku\obj\Debug\GłodnyGoku.EkranStartowy.resources
+C:\Users\oem\source\repos\GłodnyGoku\GłodnyGoku\obj\Debug\GłodnyGoku.Form1.resources
+C:\Users\oem\source\repos\GłodnyGoku\GłodnyGoku\obj\Debug\GłodnyGoku.Properties.Resources.resources
+C:\Users\oem\source\repos\GłodnyGoku\GłodnyGoku\obj\Debug\GłodnyGoku.csproj.GenerateResource.cache
+C:\Users\oem\source\repos\GłodnyGoku\GłodnyGoku\obj\Debug\GłodnyGoku.exe
+C:\Users\oem\source\repos\GłodnyGoku\GłodnyGoku\obj\Debug\GłodnyGoku.pdb
+C:\Users\oem\Desktop\obiektowe\GłodnyGoku\GłodnyGoku\bin\Debug\GłodnyGoku.exe.config
+C:\Users\oem\Desktop\obiektowe\GłodnyGoku\GłodnyGoku\bin\Debug\GłodnyGoku.exe
+C:\Users\oem\Desktop\obiektowe\GłodnyGoku\GłodnyGoku\bin\Debug\GłodnyGoku.pdb
+C:\Users\oem\Desktop\obiektowe\GłodnyGoku\GłodnyGoku\obj\Debug\GłodnyGoku.csprojAssemblyReference.cache
+C:\Users\oem\Desktop\obiektowe\GłodnyGoku\GłodnyGoku\obj\Debug\GłodnyGoku.EkranStartowy.resources
+C:\Users\oem\Desktop\obiektowe\GłodnyGoku\GłodnyGoku\obj\Debug\GłodnyGoku.Form1.resources
+C:\Users\oem\Desktop\obiektowe\GłodnyGoku\GłodnyGoku\obj\Debug\GłodnyGoku.Properties.Resources.resources
+C:\Users\oem\Desktop\obiektowe\GłodnyGoku\GłodnyGoku\obj\Debug\GłodnyGoku.csproj.GenerateResource.cache
+C:\Users\oem\Desktop\obiektowe\GłodnyGoku\GłodnyGoku\obj\Debug\GłodnyGoku.exe
+C:\Users\oem\Desktop\obiektowe\GłodnyGoku\GłodnyGoku\obj\Debug\GłodnyGoku.pdb
+C:\Users\oem\Desktop\obiektowe\GłodnyGoku\GłodnyGoku\obj\Debug\GłodnyGoku.WyborPostaci.resources
+C:\Users\oem\Desktop\15.01 glodny goku\GłodnyGoku\GłodnyGoku\bin\Debug\GłodnyGoku.exe.config
+C:\Users\oem\Desktop\15.01 glodny goku\GłodnyGoku\GłodnyGoku\bin\Debug\GłodnyGoku.exe
+C:\Users\oem\Desktop\15.01 glodny goku\GłodnyGoku\GłodnyGoku\bin\Debug\GłodnyGoku.pdb
+C:\Users\oem\Desktop\15.01 glodny goku\GłodnyGoku\GłodnyGoku\obj\Debug\GłodnyGoku.csprojAssemblyReference.cache
+C:\Users\oem\Desktop\15.01 glodny goku\GłodnyGoku\GłodnyGoku\obj\Debug\GłodnyGoku.EkranStartowy.resources
+C:\Users\oem\Desktop\15.01 glodny goku\GłodnyGoku\GłodnyGoku\obj\Debug\GłodnyGoku.Form1.resources
+C:\Users\oem\Desktop\15.01 glodny goku\GłodnyGoku\GłodnyGoku\obj\Debug\GłodnyGoku.Properties.Resources.resources
+C:\Users\oem\Desktop\15.01 glodny goku\GłodnyGoku\GłodnyGoku\obj\Debug\GłodnyGoku.WyborPostaci.resources
+C:\Users\oem\Desktop\15.01 glodny goku\GłodnyGoku\GłodnyGoku\obj\Debug\GłodnyGoku.csproj.GenerateResource.cache
+C:\Users\oem\Desktop\15.01 glodny goku\GłodnyGoku\GłodnyGoku\obj\Debug\GłodnyGoku.exe
+C:\Users\oem\Desktop\15.01 glodny goku\GłodnyGoku\GłodnyGoku\obj\Debug\GłodnyGoku.pdb
